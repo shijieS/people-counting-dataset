@@ -28,20 +28,20 @@ There are total up to 5,464 videos in this dataset. The detail number of people 
 
 ## Demo
 ### N-C+
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vMqTqwWLvQU/0.jpg)](https://www.youtube.com/watch?v=vMqTqwWLvQU)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MnQMQ9FriAA/0.jpg)](https://www.youtube.com/watch?v=MnQMQ9FriAA)
+[![N-C+](https://img.youtube.com/vi/vMqTqwWLvQU/0.jpg)](https://www.youtube.com/watch?v=vMqTqwWLvQU)
+[![N-C+](https://img.youtube.com/vi/MnQMQ9FriAA/0.jpg)](https://www.youtube.com/watch?v=MnQMQ9FriAA)
 
 ### N-C-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CcpRFchOqu4/0.jpg)](https://www.youtube.com/watch?v=CcpRFchOqu4)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AVvS_lJ5l8s/0.jpg)](https://www.youtube.com/watch?v=AVvS_lJ5l8s)
+[![](https://img.youtube.com/vi/CcpRFchOqu4/0.jpg)](https://www.youtube.com/watch?v=CcpRFchOqu4)
+[![](https://img.youtube.com/vi/AVvS_lJ5l8s/0.jpg)](https://www.youtube.com/watch?v=AVvS_lJ5l8s)
 
 ### N+C+
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/m_ybcc_qZp8/0.jpg)](https://www.youtube.com/watch?v=m_ybcc_qZp8)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lcDs5B8oWKs/0.jpg)](https://www.youtube.com/watch?v=lcDs5B8oWKs)
+[![](https://img.youtube.com/vi/m_ybcc_qZp8/0.jpg)](https://www.youtube.com/watch?v=m_ybcc_qZp8)
+[![](https://img.youtube.com/vi/lcDs5B8oWKs/0.jpg)](https://www.youtube.com/watch?v=lcDs5B8oWKs)
 
 ### N+C-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ic-VTrnBdfw/0.jpg)](https://www.youtube.com/watch?v=Ic-VTrnBdfw)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GyRAGWO97oY/0.jpg)](https://www.youtube.com/watch?v=GyRAGWO97oY)
+[![](https://img.youtube.com/vi/Ic-VTrnBdfw/0.jpg)](https://www.youtube.com/watch?v=Ic-VTrnBdfw)
+[![](https://img.youtube.com/vi/GyRAGWO97oY/0.jpg)](https://www.youtube.com/watch?v=GyRAGWO97oY)
 
 ## Dataset Structure
 The structure of these videos is illustrated in the following figure.
@@ -80,7 +80,8 @@ The camera in mounted in the top of the entrance and has a pitch angle. People p
 We only focus on the deth video and the color video is an accessory. We cannot guarantee the synchronization of color video and depth video.
 
 ## Citation
-If you use this dataset, it is necessary to cite the following paper.
+If you use this dataset, it is necessary to cite the following paper:
+> Song, H., Sun, S., Akhtar, N., Zhang, C., Li, J., & Mian, A. (2018). Benchmark data and method for real-time people counting in cluttered scenes using depth sensors, 14(8), 1–14. Retrieved from http://arxiv.org/abs/1804.04339
 
 
 ## License
