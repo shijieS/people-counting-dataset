@@ -221,3 +221,22 @@ img.center {
     text-align: left;
   }
 }
+
+
+div.image-card{
+  width: "30%";
+  background-color: rgba(238, 248, 243, 0.034);
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  /* margin-bottom: 10px; */
+  text-align: center;
+  float: left;
+  margin-left: 5px;
+  }
+
+  div.image-title {
+  text-align: center;
+  font-size: 0.7em;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 微软雅黑,宋体;
+  /* padding: 10px 20px; */
+}
