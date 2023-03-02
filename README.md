@@ -15,7 +15,7 @@ These videos are categoried by 4 sub-categories: N+C+, N+C-, N-C+, N-C-, accordi
 |          |  N+C+  |  N+C-  | N-C+ | N-C- |
 |:--------:|:------:|:------:|:----:|:----:|
 | sunlight | strong | strong | weak | weak |
-| crowed   |   yes  |   no   |  yes |  no  |
+| crowded   |   yes  |   no   |  yes |  no  |
 
 There are total up to 5,464 videos in this dataset. The detail number of people entering and exiting the bus in each category can be referred from the following table.
 
